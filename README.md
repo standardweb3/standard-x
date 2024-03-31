@@ -1,2 +1,2 @@
-# StandardX
-an AI intent(limit order) agent framework from blockchain trading data
+# standard.py
+python API client library for standard exchange
